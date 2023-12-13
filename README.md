@@ -1,7 +1,7 @@
 # Students Score Analysis 
 
 ### Problem Statement
-This project aims to provide insights into how the Score of Students depends on various factors and What steps should be taken to maintain or increase the Result. Providing a comprehensive and accessible solution by leveraging Python libraries for data analysis, the tool seeks to empower users to effortlessly import, explore, and derive insights from a fictional student dataset. The overarching goal is to bridge the gap between raw academic data and actionable insights, fostering data-driven decision-making in the field of education.
+This project aims to provide insights into how the Score of Students depends on various factors and what steps should be taken to maintain or increase the result. Providing a comprehensive and accessible solution by leveraging Python libraries for data analysis, the tool seeks to empower users to effortlessly import, explore, and derive insights from a fictional student dataset. The overarching goal is to bridge the gap between raw academic data and actionable insights, fostering data-driven decision-making in the field of education.
 
 ### Questions Explored
 1.	What is the Gender Distribution?
@@ -68,6 +68,13 @@ The Student who studies more than 10 hours gets more marks
 
 From the Above Chart we have analyzed that: 
 There are highest students from Ethnic Group C followed by Group D and Group B
+
+
+## Libraries Used
+- Pandas
+- Seaborn
+- Numpy
+- Matplotlib
 
 ## Insights
 - Students whose Parents are more Educated are likely to Score higher marks
